@@ -64,4 +64,4 @@ This dataset was intentionally messy in places, and part of the value of this pr
 
 ## Tools
 
-Power BI Desktop (Power Query, DAX, data modeling), Python/SQL for independent data validation.
+Power BI Desktop (Power Query, DAX, data modeling), SQL for independent data validation.
