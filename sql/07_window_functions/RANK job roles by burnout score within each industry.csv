@@ -1,0 +1,121 @@
+Burnout_Rank,industry,job_role,AVG_Burnout
+1,Automotive,"ML Engineer",54.83
+2,Automotive,"Data Analyst",52.38
+3,Automotive,"Frontend Engineer",51.50
+4,Automotive,"Cloud Architect",50.22
+5,Automotive,"AI Researcher",49.88
+6,Automotive,"DevOps Engineer",49.58
+7,Automotive,"Backend Engineer",48.81
+8,Automotive,"AI Ethics Officer",48.60
+9,Automotive,"Software Engineer",46.64
+10,Automotive,"Data Scientist",45.71
+11,Automotive,"Prompt Engineer",45.00
+12,Automotive,"Product Manager",42.73
+1,Consulting,"Software Engineer",54.69
+2,Consulting,"Product Manager",53.87
+3,Consulting,"Data Analyst",52.58
+4,Consulting,"ML Engineer",50.69
+5,Consulting,"Backend Engineer",49.67
+6,Consulting,"AI Researcher",49.17
+7,Consulting,"Data Scientist",48.33
+8,Consulting,"Frontend Engineer",48.23
+9,Consulting,"DevOps Engineer",48.12
+10,Consulting,"AI Ethics Officer",47.54
+11,Consulting,"Prompt Engineer",47.44
+12,Consulting,"Cloud Architect",44.30
+1,Cybersecurity,"Software Engineer",55.07
+2,Cybersecurity,"DevOps Engineer",54.30
+3,Cybersecurity,"Data Scientist",54.15
+4,Cybersecurity,"Backend Engineer",51.00
+5,Cybersecurity,"AI Researcher",50.00
+6,Cybersecurity,"Prompt Engineer",49.67
+7,Cybersecurity,"AI Ethics Officer",47.64
+8,Cybersecurity,"Data Analyst",47.56
+9,Cybersecurity,"Cloud Architect",47.31
+10,Cybersecurity,"ML Engineer",47.00
+11,Cybersecurity,"Frontend Engineer",46.63
+12,Cybersecurity,"Product Manager",41.88
+1,E-commerce,"DevOps Engineer",58.29
+2,E-commerce,"AI Ethics Officer",54.56
+3,E-commerce,"ML Engineer",52.33
+4,E-commerce,"Software Engineer",51.41
+5,E-commerce,"Backend Engineer",51.15
+6,E-commerce,"Data Scientist",51.00
+7,E-commerce,"Data Analyst",50.92
+8,E-commerce,"Cloud Architect",50.35
+9,E-commerce,"Product Manager",50.33
+10,E-commerce,"AI Researcher",47.18
+11,E-commerce,"Frontend Engineer",46.78
+12,E-commerce,"Prompt Engineer",45.80
+1,EdTech,"Software Engineer",55.19
+2,EdTech,"Prompt Engineer",54.82
+3,EdTech,"Data Scientist",52.87
+4,EdTech,"AI Ethics Officer",51.00
+5,EdTech,"Backend Engineer",50.24
+6,EdTech,"Cloud Architect",50.06
+7,EdTech,"Frontend Engineer",49.38
+8,EdTech,"ML Engineer",49.31
+9,EdTech,"Product Manager",48.00
+10,EdTech,"DevOps Engineer",47.73
+11,EdTech,"AI Researcher",46.27
+12,EdTech,"Data Analyst",44.91
+1,Fintech,"Prompt Engineer",52.80
+2,Fintech,"Cloud Architect",52.57
+3,Fintech,"Frontend Engineer",52.14
+4,Fintech,"Product Manager",51.58
+5,Fintech,"Data Analyst",51.00
+6,Fintech,"AI Ethics Officer",50.35
+7,Fintech,"ML Engineer",50.25
+8,Fintech,"Software Engineer",49.18
+9,Fintech,"Backend Engineer",48.93
+10,Fintech,"DevOps Engineer",48.79
+11,Fintech,"Data Scientist",47.36
+12,Fintech,"AI Researcher",44.42
+1,Gaming,"Backend Engineer",61.75
+2,Gaming,"DevOps Engineer",53.63
+3,Gaming,"Software Engineer",52.50
+4,Gaming,"Data Analyst",52.15
+5,Gaming,"Product Manager",50.93
+6,Gaming,"Cloud Architect",50.67
+7,Gaming,"ML Engineer",50.47
+8,Gaming,"AI Ethics Officer",49.56
+9,Gaming,"Data Scientist",48.95
+10,Gaming,"Frontend Engineer",48.60
+11,Gaming,"AI Researcher",47.27
+12,Gaming,"Prompt Engineer",43.15
+1,Healthtech,"Data Analyst",54.95
+2,Healthtech,"ML Engineer",53.90
+3,Healthtech,"Data Scientist",53.42
+4,Healthtech,"Cloud Architect",53.33
+5,Healthtech,"AI Researcher",52.58
+6,Healthtech,"Frontend Engineer",52.20
+7,Healthtech,"Product Manager",50.36
+8,Healthtech,"DevOps Engineer",48.75
+9,Healthtech,"AI Ethics Officer",47.19
+10,Healthtech,"Backend Engineer",46.64
+11,Healthtech,"Software Engineer",43.87
+12,Healthtech,"Prompt Engineer",41.63
+1,Media,"Backend Engineer",55.89
+2,Media,"ML Engineer",53.80
+3,Media,"Software Engineer",52.33
+4,Media,"DevOps Engineer",51.92
+5,Media,"Data Scientist",51.91
+6,Media,"Product Manager",51.89
+7,Media,"AI Ethics Officer",51.05
+8,Media,"Data Analyst",48.88
+9,Media,"Cloud Architect",48.58
+10,Media,"Prompt Engineer",46.73
+11,Media,"AI Researcher",45.18
+12,Media,"Frontend Engineer",44.62
+1,SaaS,"Cloud Architect",55.92
+2,SaaS,"Frontend Engineer",54.25
+3,SaaS,"Prompt Engineer",53.40
+4,SaaS,"AI Researcher",52.88
+5,SaaS,"Data Scientist",52.87
+6,SaaS,"DevOps Engineer",51.63
+7,SaaS,"Backend Engineer",51.54
+8,SaaS,"Software Engineer",50.80
+9,SaaS,"Data Analyst",50.63
+10,SaaS,"AI Ethics Officer",49.91
+11,SaaS,"Product Manager",47.83
+12,SaaS,"ML Engineer",43.80

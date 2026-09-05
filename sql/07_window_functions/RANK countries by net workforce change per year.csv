@@ -1,0 +1,561 @@
+Country_Rank,country,year,avg_net_wf_change
+1,Zambia,2020,-0
+2,China,2020,-0.01
+2,Germany,2020,-0.01
+2,"United Kingdom",2020,-0.01
+2,Japan,2020,-0.01
+2,France,2020,-0.01
+2,India,2020,-0.01
+2,Canada,2020,-0.01
+2,"South Korea",2020,-0.01
+2,Australia,2020,-0.01
+2,Brazil,2020,-0.01
+2,Italy,2020,-0.01
+2,Spain,2020,-0.01
+2,Mexico,2020,-0.01
+2,Indonesia,2020,-0.01
+2,"Saudi Arabia",2020,-0.01
+2,Turkey,2020,-0.01
+2,Switzerland,2020,-0.01
+2,Sweden,2020,-0.01
+2,Norway,2020,-0.01
+2,Finland,2020,-0.01
+2,Belgium,2020,-0.01
+2,Austria,2020,-0.01
+2,Poland,2020,-0.01
+2,Argentina,2020,-0.01
+2,Colombia,2020,-0.01
+2,Chile,2020,-0.01
+2,Peru,2020,-0.01
+2,"South Africa",2020,-0.01
+2,Nigeria,2020,-0.01
+2,Egypt,2020,-0.01
+2,Kenya,2020,-0.01
+2,Ethiopia,2020,-0.01
+2,Ghana,2020,-0.01
+2,Morocco,2020,-0.01
+2,Tanzania,2020,-0.01
+2,Pakistan,2020,-0.01
+2,Bangladesh,2020,-0.01
+2,Vietnam,2020,-0.01
+2,Thailand,2020,-0.01
+2,Malaysia,2020,-0.01
+2,Philippines,2020,-0.01
+2,"New Zealand",2020,-0.01
+2,Portugal,2020,-0.01
+2,"Czech Republic",2020,-0.01
+2,Romania,2020,-0.01
+2,Hungary,2020,-0.01
+2,Greece,2020,-0.01
+2,Ukraine,2020,-0.01
+2,UAE,2020,-0.01
+2,Qatar,2020,-0.01
+2,Kuwait,2020,-0.01
+2,Iran,2020,-0.01
+2,Iraq,2020,-0.01
+2,Kazakhstan,2020,-0.01
+2,Uzbekistan,2020,-0.01
+2,Russia,2020,-0.01
+2,Taiwan,2020,-0.01
+2,"Sri Lanka",2020,-0.01
+2,Nepal,2020,-0.01
+2,Myanmar,2020,-0.01
+2,Cambodia,2020,-0.01
+2,Ecuador,2020,-0.01
+2,Bolivia,2020,-0.01
+2,Paraguay,2020,-0.01
+2,Uruguay,2020,-0.01
+2,"Costa Rica",2020,-0.01
+2,Panama,2020,-0.01
+2,Guatemala,2020,-0.01
+2,Algeria,2020,-0.01
+2,Tunisia,2020,-0.01
+2,Cameroon,2020,-0.01
+2,"Ivory Coast",2020,-0.01
+2,Senegal,2020,-0.01
+75,"United States",2020,-0.02
+75,Netherlands,2020,-0.02
+75,Denmark,2020,-0.02
+75,Singapore,2020,-0.02
+75,Israel,2020,-0.02
+75,"Hong Kong",2020,-0.02
+1,"United Kingdom",2021,-0.01
+1,Japan,2021,-0.01
+1,"South Korea",2021,-0.01
+1,Brazil,2021,-0.01
+1,Italy,2021,-0.01
+1,Spain,2021,-0.01
+1,Mexico,2021,-0.01
+1,Indonesia,2021,-0.01
+1,"Saudi Arabia",2021,-0.01
+1,Turkey,2021,-0.01
+1,Poland,2021,-0.01
+1,Argentina,2021,-0.01
+1,Colombia,2021,-0.01
+1,Chile,2021,-0.01
+1,Peru,2021,-0.01
+1,"South Africa",2021,-0.01
+1,Nigeria,2021,-0.01
+1,Egypt,2021,-0.01
+1,Kenya,2021,-0.01
+1,Ethiopia,2021,-0.01
+1,Ghana,2021,-0.01
+1,Morocco,2021,-0.01
+1,Tanzania,2021,-0.01
+1,Pakistan,2021,-0.01
+1,Bangladesh,2021,-0.01
+1,Vietnam,2021,-0.01
+1,Thailand,2021,-0.01
+1,Malaysia,2021,-0.01
+1,Philippines,2021,-0.01
+1,Portugal,2021,-0.01
+1,"Czech Republic",2021,-0.01
+1,Romania,2021,-0.01
+1,Greece,2021,-0.01
+1,Ukraine,2021,-0.01
+1,Kuwait,2021,-0.01
+1,Iran,2021,-0.01
+1,Iraq,2021,-0.01
+1,Kazakhstan,2021,-0.01
+1,Uzbekistan,2021,-0.01
+1,Russia,2021,-0.01
+1,Taiwan,2021,-0.01
+1,"Hong Kong",2021,-0.01
+1,"Sri Lanka",2021,-0.01
+1,Nepal,2021,-0.01
+1,Myanmar,2021,-0.01
+1,Cambodia,2021,-0.01
+1,Ecuador,2021,-0.01
+1,Bolivia,2021,-0.01
+1,Paraguay,2021,-0.01
+1,Uruguay,2021,-0.01
+1,"Costa Rica",2021,-0.01
+1,Panama,2021,-0.01
+1,Guatemala,2021,-0.01
+1,Algeria,2021,-0.01
+1,Tunisia,2021,-0.01
+1,Cameroon,2021,-0.01
+1,"Ivory Coast",2021,-0.01
+1,Senegal,2021,-0.01
+1,Zambia,2021,-0.01
+60,"United States",2021,-0.02
+60,China,2021,-0.02
+60,Germany,2021,-0.02
+60,France,2021,-0.02
+60,India,2021,-0.02
+60,Canada,2021,-0.02
+60,Australia,2021,-0.02
+60,Netherlands,2021,-0.02
+60,Switzerland,2021,-0.02
+60,Sweden,2021,-0.02
+60,Norway,2021,-0.02
+60,Denmark,2021,-0.02
+60,Finland,2021,-0.02
+60,Belgium,2021,-0.02
+60,Austria,2021,-0.02
+60,Singapore,2021,-0.02
+60,"New Zealand",2021,-0.02
+60,Hungary,2021,-0.02
+60,Israel,2021,-0.02
+60,UAE,2021,-0.02
+60,Qatar,2021,-0.02
+1,Spain,2022,-0.01
+1,"Saudi Arabia",2022,-0.01
+1,Colombia,2022,-0.01
+1,Peru,2022,-0.01
+1,"South Africa",2022,-0.01
+1,Ghana,2022,-0.01
+1,Pakistan,2022,-0.01
+1,Bangladesh,2022,-0.01
+1,Portugal,2022,-0.01
+1,"Czech Republic",2022,-0.01
+1,Greece,2022,-0.01
+1,Kuwait,2022,-0.01
+1,Iraq,2022,-0.01
+1,Uzbekistan,2022,-0.01
+1,Myanmar,2022,-0.01
+1,Cambodia,2022,-0.01
+1,Ecuador,2022,-0.01
+1,Paraguay,2022,-0.01
+1,Uruguay,2022,-0.01
+1,Guatemala,2022,-0.01
+1,Cameroon,2022,-0.01
+1,"Ivory Coast",2022,-0.01
+1,Senegal,2022,-0.01
+1,Zambia,2022,-0.01
+25,"United States",2022,-0.02
+25,China,2022,-0.02
+25,Germany,2022,-0.02
+25,"United Kingdom",2022,-0.02
+25,Japan,2022,-0.02
+25,France,2022,-0.02
+25,India,2022,-0.02
+25,Canada,2022,-0.02
+25,"South Korea",2022,-0.02
+25,Australia,2022,-0.02
+25,Brazil,2022,-0.02
+25,Italy,2022,-0.02
+25,Mexico,2022,-0.02
+25,Indonesia,2022,-0.02
+25,Netherlands,2022,-0.02
+25,Turkey,2022,-0.02
+25,Switzerland,2022,-0.02
+25,Sweden,2022,-0.02
+25,Norway,2022,-0.02
+25,Denmark,2022,-0.02
+25,Finland,2022,-0.02
+25,Belgium,2022,-0.02
+25,Austria,2022,-0.02
+25,Poland,2022,-0.02
+25,Argentina,2022,-0.02
+25,Chile,2022,-0.02
+25,Nigeria,2022,-0.02
+25,Egypt,2022,-0.02
+25,Kenya,2022,-0.02
+25,Ethiopia,2022,-0.02
+25,Morocco,2022,-0.02
+25,Tanzania,2022,-0.02
+25,Vietnam,2022,-0.02
+25,Thailand,2022,-0.02
+25,Malaysia,2022,-0.02
+25,Philippines,2022,-0.02
+25,Singapore,2022,-0.02
+25,"New Zealand",2022,-0.02
+25,Romania,2022,-0.02
+25,Hungary,2022,-0.02
+25,Ukraine,2022,-0.02
+25,Israel,2022,-0.02
+25,UAE,2022,-0.02
+25,Qatar,2022,-0.02
+25,Iran,2022,-0.02
+25,Kazakhstan,2022,-0.02
+25,Russia,2022,-0.02
+25,Taiwan,2022,-0.02
+25,"Hong Kong",2022,-0.02
+25,"Sri Lanka",2022,-0.02
+25,Nepal,2022,-0.02
+25,Bolivia,2022,-0.02
+25,"Costa Rica",2022,-0.02
+25,Panama,2022,-0.02
+25,Algeria,2022,-0.02
+25,Tunisia,2022,-0.02
+1,Uruguay,2023,-0.01
+2,"United States",2023,-0.02
+2,Japan,2023,-0.02
+2,France,2023,-0.02
+2,India,2023,-0.02
+2,Canada,2023,-0.02
+2,"South Korea",2023,-0.02
+2,Australia,2023,-0.02
+2,Brazil,2023,-0.02
+2,Italy,2023,-0.02
+2,Spain,2023,-0.02
+2,Mexico,2023,-0.02
+2,Indonesia,2023,-0.02
+2,"Saudi Arabia",2023,-0.02
+2,Turkey,2023,-0.02
+2,Norway,2023,-0.02
+2,Denmark,2023,-0.02
+2,Belgium,2023,-0.02
+2,Austria,2023,-0.02
+2,Poland,2023,-0.02
+2,Argentina,2023,-0.02
+2,Colombia,2023,-0.02
+2,Chile,2023,-0.02
+2,Peru,2023,-0.02
+2,"South Africa",2023,-0.02
+2,Nigeria,2023,-0.02
+2,Egypt,2023,-0.02
+2,Kenya,2023,-0.02
+2,Ethiopia,2023,-0.02
+2,Ghana,2023,-0.02
+2,Morocco,2023,-0.02
+2,Tanzania,2023,-0.02
+2,Pakistan,2023,-0.02
+2,Bangladesh,2023,-0.02
+2,Vietnam,2023,-0.02
+2,Thailand,2023,-0.02
+2,Malaysia,2023,-0.02
+2,Philippines,2023,-0.02
+2,Portugal,2023,-0.02
+2,"Czech Republic",2023,-0.02
+2,Romania,2023,-0.02
+2,Hungary,2023,-0.02
+2,Greece,2023,-0.02
+2,Ukraine,2023,-0.02
+2,Qatar,2023,-0.02
+2,Kuwait,2023,-0.02
+2,Iran,2023,-0.02
+2,Iraq,2023,-0.02
+2,Kazakhstan,2023,-0.02
+2,Uzbekistan,2023,-0.02
+2,Russia,2023,-0.02
+2,Taiwan,2023,-0.02
+2,"Hong Kong",2023,-0.02
+2,"Sri Lanka",2023,-0.02
+2,Nepal,2023,-0.02
+2,Myanmar,2023,-0.02
+2,Cambodia,2023,-0.02
+2,Ecuador,2023,-0.02
+2,Bolivia,2023,-0.02
+2,Paraguay,2023,-0.02
+2,"Costa Rica",2023,-0.02
+2,Panama,2023,-0.02
+2,Guatemala,2023,-0.02
+2,Algeria,2023,-0.02
+2,Tunisia,2023,-0.02
+2,Cameroon,2023,-0.02
+2,"Ivory Coast",2023,-0.02
+2,Senegal,2023,-0.02
+2,Zambia,2023,-0.02
+70,China,2023,-0.03
+70,Germany,2023,-0.03
+70,"United Kingdom",2023,-0.03
+70,Netherlands,2023,-0.03
+70,Switzerland,2023,-0.03
+70,Sweden,2023,-0.03
+70,Finland,2023,-0.03
+70,Singapore,2023,-0.03
+70,"New Zealand",2023,-0.03
+70,Israel,2023,-0.03
+70,UAE,2023,-0.03
+1,Japan,2024,-0.02
+1,"South Korea",2024,-0.02
+1,Brazil,2024,-0.02
+1,Italy,2024,-0.02
+1,Spain,2024,-0.02
+1,Mexico,2024,-0.02
+1,"Saudi Arabia",2024,-0.02
+1,Turkey,2024,-0.02
+1,Argentina,2024,-0.02
+1,Colombia,2024,-0.02
+1,Chile,2024,-0.02
+1,Peru,2024,-0.02
+1,"South Africa",2024,-0.02
+1,Nigeria,2024,-0.02
+1,Kenya,2024,-0.02
+1,Ghana,2024,-0.02
+1,Pakistan,2024,-0.02
+1,Bangladesh,2024,-0.02
+1,Thailand,2024,-0.02
+1,Portugal,2024,-0.02
+1,"Czech Republic",2024,-0.02
+1,Greece,2024,-0.02
+1,Kuwait,2024,-0.02
+1,Iraq,2024,-0.02
+1,Kazakhstan,2024,-0.02
+1,Uzbekistan,2024,-0.02
+1,Taiwan,2024,-0.02
+1,Myanmar,2024,-0.02
+1,Cambodia,2024,-0.02
+1,Ecuador,2024,-0.02
+1,Paraguay,2024,-0.02
+1,Uruguay,2024,-0.02
+1,Guatemala,2024,-0.02
+1,Cameroon,2024,-0.02
+1,"Ivory Coast",2024,-0.02
+1,Senegal,2024,-0.02
+1,Zambia,2024,-0.02
+38,"United States",2024,-0.03
+38,China,2024,-0.03
+38,Germany,2024,-0.03
+38,"United Kingdom",2024,-0.03
+38,France,2024,-0.03
+38,India,2024,-0.03
+38,Canada,2024,-0.03
+38,Australia,2024,-0.03
+38,Indonesia,2024,-0.03
+38,Netherlands,2024,-0.03
+38,Switzerland,2024,-0.03
+38,Sweden,2024,-0.03
+38,Norway,2024,-0.03
+38,Denmark,2024,-0.03
+38,Belgium,2024,-0.03
+38,Austria,2024,-0.03
+38,Poland,2024,-0.03
+38,Egypt,2024,-0.03
+38,Ethiopia,2024,-0.03
+38,Morocco,2024,-0.03
+38,Tanzania,2024,-0.03
+38,Vietnam,2024,-0.03
+38,Malaysia,2024,-0.03
+38,Philippines,2024,-0.03
+38,"New Zealand",2024,-0.03
+38,Romania,2024,-0.03
+38,Hungary,2024,-0.03
+38,Ukraine,2024,-0.03
+38,Israel,2024,-0.03
+38,UAE,2024,-0.03
+38,Qatar,2024,-0.03
+38,Iran,2024,-0.03
+38,Russia,2024,-0.03
+38,"Hong Kong",2024,-0.03
+38,"Sri Lanka",2024,-0.03
+38,Nepal,2024,-0.03
+38,Bolivia,2024,-0.03
+38,"Costa Rica",2024,-0.03
+38,Panama,2024,-0.03
+38,Algeria,2024,-0.03
+38,Tunisia,2024,-0.03
+79,Finland,2024,-0.04
+79,Singapore,2024,-0.04
+1,"Saudi Arabia",2025,-0.02
+1,Peru,2025,-0.02
+1,"South Africa",2025,-0.02
+1,Portugal,2025,-0.02
+1,Greece,2025,-0.02
+1,Kuwait,2025,-0.02
+1,Iraq,2025,-0.02
+1,Paraguay,2025,-0.02
+1,Uruguay,2025,-0.02
+1,Guatemala,2025,-0.02
+11,"United States",2025,-0.03
+11,China,2025,-0.03
+11,"United Kingdom",2025,-0.03
+11,Japan,2025,-0.03
+11,France,2025,-0.03
+11,India,2025,-0.03
+11,Canada,2025,-0.03
+11,"South Korea",2025,-0.03
+11,Brazil,2025,-0.03
+11,Italy,2025,-0.03
+11,Spain,2025,-0.03
+11,Mexico,2025,-0.03
+11,Indonesia,2025,-0.03
+11,Netherlands,2025,-0.03
+11,Turkey,2025,-0.03
+11,Switzerland,2025,-0.03
+11,Norway,2025,-0.03
+11,Finland,2025,-0.03
+11,Poland,2025,-0.03
+11,Argentina,2025,-0.03
+11,Colombia,2025,-0.03
+11,Chile,2025,-0.03
+11,Nigeria,2025,-0.03
+11,Egypt,2025,-0.03
+11,Kenya,2025,-0.03
+11,Ethiopia,2025,-0.03
+11,Ghana,2025,-0.03
+11,Morocco,2025,-0.03
+11,Tanzania,2025,-0.03
+11,Pakistan,2025,-0.03
+11,Bangladesh,2025,-0.03
+11,Vietnam,2025,-0.03
+11,Thailand,2025,-0.03
+11,Malaysia,2025,-0.03
+11,Philippines,2025,-0.03
+11,"New Zealand",2025,-0.03
+11,"Czech Republic",2025,-0.03
+11,Romania,2025,-0.03
+11,Hungary,2025,-0.03
+11,Ukraine,2025,-0.03
+11,Israel,2025,-0.03
+11,UAE,2025,-0.03
+11,Iran,2025,-0.03
+11,Kazakhstan,2025,-0.03
+11,Uzbekistan,2025,-0.03
+11,Russia,2025,-0.03
+11,Taiwan,2025,-0.03
+11,"Sri Lanka",2025,-0.03
+11,Nepal,2025,-0.03
+11,Myanmar,2025,-0.03
+11,Cambodia,2025,-0.03
+11,Ecuador,2025,-0.03
+11,Bolivia,2025,-0.03
+11,"Costa Rica",2025,-0.03
+11,Panama,2025,-0.03
+11,Algeria,2025,-0.03
+11,Tunisia,2025,-0.03
+11,Cameroon,2025,-0.03
+11,"Ivory Coast",2025,-0.03
+11,Senegal,2025,-0.03
+11,Zambia,2025,-0.03
+72,Germany,2025,-0.04
+72,Australia,2025,-0.04
+72,Sweden,2025,-0.04
+72,Denmark,2025,-0.04
+72,Belgium,2025,-0.04
+72,Austria,2025,-0.04
+72,Singapore,2025,-0.04
+72,Qatar,2025,-0.04
+72,"Hong Kong",2025,-0.04
+1,"Saudi Arabia",2026,-0.02
+1,Portugal,2026,-0.02
+1,Greece,2026,-0.02
+1,Paraguay,2026,-0.02
+1,Uruguay,2026,-0.02
+6,"United States",2026,-0.03
+6,China,2026,-0.03
+6,Germany,2026,-0.03
+6,Canada,2026,-0.03
+6,"South Korea",2026,-0.03
+6,Australia,2026,-0.03
+6,Brazil,2026,-0.03
+6,Italy,2026,-0.03
+6,Spain,2026,-0.03
+6,Mexico,2026,-0.03
+6,Indonesia,2026,-0.03
+6,Turkey,2026,-0.03
+6,Switzerland,2026,-0.03
+6,Argentina,2026,-0.03
+6,Colombia,2026,-0.03
+6,Peru,2026,-0.03
+6,"South Africa",2026,-0.03
+6,Egypt,2026,-0.03
+6,Ghana,2026,-0.03
+6,Pakistan,2026,-0.03
+6,Bangladesh,2026,-0.03
+6,Thailand,2026,-0.03
+6,Malaysia,2026,-0.03
+6,"New Zealand",2026,-0.03
+6,"Czech Republic",2026,-0.03
+6,Israel,2026,-0.03
+6,Kuwait,2026,-0.03
+6,Iraq,2026,-0.03
+6,Kazakhstan,2026,-0.03
+6,Russia,2026,-0.03
+6,Taiwan,2026,-0.03
+6,Myanmar,2026,-0.03
+6,Cambodia,2026,-0.03
+6,Ecuador,2026,-0.03
+6,Bolivia,2026,-0.03
+6,Panama,2026,-0.03
+6,Guatemala,2026,-0.03
+6,Algeria,2026,-0.03
+6,Cameroon,2026,-0.03
+6,"Ivory Coast",2026,-0.03
+6,Senegal,2026,-0.03
+6,Zambia,2026,-0.03
+48,"United Kingdom",2026,-0.04
+48,Japan,2026,-0.04
+48,France,2026,-0.04
+48,India,2026,-0.04
+48,Netherlands,2026,-0.04
+48,Sweden,2026,-0.04
+48,Denmark,2026,-0.04
+48,Finland,2026,-0.04
+48,Belgium,2026,-0.04
+48,Austria,2026,-0.04
+48,Poland,2026,-0.04
+48,Chile,2026,-0.04
+48,Nigeria,2026,-0.04
+48,Kenya,2026,-0.04
+48,Ethiopia,2026,-0.04
+48,Morocco,2026,-0.04
+48,Tanzania,2026,-0.04
+48,Vietnam,2026,-0.04
+48,Philippines,2026,-0.04
+48,Singapore,2026,-0.04
+48,Romania,2026,-0.04
+48,Hungary,2026,-0.04
+48,Ukraine,2026,-0.04
+48,UAE,2026,-0.04
+48,Qatar,2026,-0.04
+48,Iran,2026,-0.04
+48,Uzbekistan,2026,-0.04
+48,"Sri Lanka",2026,-0.04
+48,Nepal,2026,-0.04
+48,"Costa Rica",2026,-0.04
+48,Tunisia,2026,-0.04
+79,Norway,2026,-0.05
+79,"Hong Kong",2026,-0.05

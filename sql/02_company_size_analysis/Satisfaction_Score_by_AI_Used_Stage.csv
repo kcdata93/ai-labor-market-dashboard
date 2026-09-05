@@ -1,0 +1,13 @@
+company_size,Stage_Name,Employee_Satisfaction_Score
+Enterprise,full,6.38
+Startup,full,6.2
+SME,full,6.2
+Enterprise,partial,5.93
+SME,partial,5.79
+Startup,partial,5.72
+Enterprise,pilot,5.5
+SME,pilot,5.39
+Startup,pilot,5.33
+Enterprise,none,5.21
+SME,none,5.12
+Startup,none,5.04
